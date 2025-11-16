@@ -43,4 +43,15 @@
     <string name="name_spaghetti">Spaghetti</string>
     <string name="name_table">Table</string>
     <string name="name_tomato">Tomato</string>
+
+    <string name="action_add_to_cart">Add to cart</string>
+    <string name="action_pay">Pay</string>
+    <string name="action_remove">Remove</string>
+
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="cart_amount">In cart: %1$d</string>
+
+    <string name="discount_fixed">-%1$s</string>
+    <string name="discount_percentage">-%1$d%%</string>
+    <string name="discount_bundle">%1$d for the price of %2$d (%3$s)</string>
 </resources>
